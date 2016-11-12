@@ -1,0 +1,2 @@
+# wp-initalize
+a test
